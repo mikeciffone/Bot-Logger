@@ -1,0 +1,120 @@
+.valid {
+    color: green !important;
+    font-weight: bold;
+}
+
+.invalid {
+    color: red !important;
+    font-weight: bold;
+}
+
+.status-404 {
+    color: red !important;
+}
+
+.unknown {
+    color: gray !important;
+    font-weight: bold;
+}
+
+.form-container > form {
+    display: flex;
+    flex-direction: column;
+    align-items: baseline;
+}
+
+input#custom_bot_user_agent {
+    width: 418px;
+}
+
+.form-container label {
+    margin-top: 10px;
+}
+
+.form-container input[type="text"],
+.form-container input[type="submit"] {
+    margin-bottom: 10px;
+}
+
+.bl-plugin-logo {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 20px auto;
+}
+
+.wp-list-table th.column-resource {
+    width: 20%;
+}
+
+.wp-list-table th.column-is_valid, .wp-list-table td.column-is_valid {
+    width: 7%;
+}
+
+.wp-list-table th.column-status_code, .wp-list-table td.column-status_code {
+    width: 10%;
+}
+
+.wp-list-table th.column-user_agent, .wp-list-table td.column-user_agent {
+    width: 10%;
+}
+.wp-list-table th.column-ip_address, .wp-list-table td.column-ip_address {
+    width: 10%;
+}
+
+.wp-list-table th.column-date, .wp-list-table td.column-date {
+    width: 15%;
+}
+/*
+.log-file-chart {
+    margin: 10px 0px 10px 0px;
+}
+
+.log-file-chart th {
+    padding: 5px;
+    text-decoration: underline;
+}
+.log-file-chart td {
+    padding: 5px;
+}
+*/
+
+.log-file-chart {
+    margin: 10px 0px 10px 0px;
+    border-collapse: collapse; /* Ensure borders are not doubled */
+}
+
+.log-file-chart th {
+    padding: 5px;
+    text-decoration: underline;
+    text-align: center; /* Center align the header text */
+    background-color: #f2f2f2; /* Light grey background for headers */
+}
+
+.log-file-chart td {
+    padding: 10px;
+    text-align: left; /* Left align the text in the cells */
+    border-bottom: 1px solid #ddd; /* Add a bottom border to table cells */
+}
+
+.checkbox-container {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin-bottom: 10px;
+}
+
+.custom-log-path {
+    display: none;
+    flex-direction: column;
+    margin-top: 10px;
+}
+
+.custom-log-path label, .custom-log-path input {
+    display: block;
+    margin-bottom: 5px;
+}
+
+.checkbox-item {
+    padding: 10px 10px 0px;
+}
