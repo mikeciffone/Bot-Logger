@@ -17,7 +17,7 @@ Bot Logger is a WordPress plugin designed to log and validate incoming requests 
 
 ## Support
 
-If you encounter any issues or have questions about the plugin, please open an issue on the [GitHub repository](https://github.com/mikeciffone/Bot-Logger). You can also submit issues using the form on the [Bot Logger web page](https://ciffonedigital.com/bot-logger/).
+If you encounter any issues or have questions about the plugin, please open an issue on the [Issues Page](https://github.com/mikeciffone/Bot-Logger/issues). You can also submit issues using the form on the [Bot Logger web page](https://ciffonedigital.com/bot-logger/).
 
 ## License
 
