@@ -2,6 +2,8 @@
 
 Bot Logger is a WordPress plugin designed to log and validate incoming requests from search engine bots. It logs Googlebot and Bingbot by default, and allows up to 3 custom user agents. Bot Logger was designed to make log file analysis more convenient and accessible, allowing users to view details usually only shown in access logs such as user agent, request date, resource, status code, and IP address directly in the WordPress admin panel.
 
+This version of the plugin will always be free and open source. You can show your support by linking to it's [web page](https://ciffonedigital.com/bot-logger/) and sharing it with others.
+
 ## Features
 
 - Logs requests from Googlebot and Bingbot by default
