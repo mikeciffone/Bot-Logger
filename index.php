@@ -297,7 +297,6 @@ function bl_log_bot_request() {
             $ip_address = explode(',', $_SERVER['HTTP_X_FORWARDED_FOR'])[0];
         }
 
-        // This is probably not used 
         $bot_name = '';
         if (strpos($user_agent, 'Googlebot') !== false) {
             $bot_name = bl_extract_bot_name($user_agent, 'Googlebot');

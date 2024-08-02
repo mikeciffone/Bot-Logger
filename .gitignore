@@ -1,7 +1,3 @@
-# Ignore Composer lock file and configuration file
-composer.lock
-composer.json
-
 # Ignore macOS system files
 .DS_Store
 

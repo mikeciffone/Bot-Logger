@@ -1,0 +1,7 @@
+{
+    "require": {
+        "phpoffice/phpspreadsheet": "^1.29.0",
+        "maennchen/zipstream-php": "2.2.6",
+        "psr/simple-cache": "1.0"
+    }
+}
