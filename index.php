@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Bot Logger
  * Description: A no-frills log viewer for Technical SEO. Tracks Googlebot and Bingbot by default with custom user agent support.
- * Version: 1.6
+ * Version: 1.7
  * Author: Mike Ciffone
  * Author URI: https://ciffonedigital.com
  * Plugin URI: https://ciffonedigital.com/bot-logger
